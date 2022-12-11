@@ -10,3 +10,27 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.body {
+    background-color: black;
+    height: 200px;
+    width: 950px;
+    margin: 50px;
+    padding-left: 20px;
+    border-radius: 30px;
+}
+
+.number {
+    background-color: grey;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    display: inline-block;
+    text-align: center;
+    font-size: 60px;
+    border-radius: 30%;
+    font-style: oblique;
+    color: yellow;
+}
